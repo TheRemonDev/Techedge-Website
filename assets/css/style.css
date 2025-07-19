@@ -109,7 +109,7 @@ a, .btn, button {
     font-family: "Font Awesome 5 Pro";
 	line-height: 46px;
 	font-size: 24px;
-	color: #fd0060;
+	color: #040d43;
 	left: 0;
 	top: 0;
 	height: 46px;
@@ -133,7 +133,7 @@ a, .btn, button {
 	line-height: 46px;
 	font-size: 24px;
 	opacity: 0;
-    color: #fd0060;
+    color: #040d43;
 	left: 0;
 	top: 0;
 	height: 46px;
@@ -181,7 +181,7 @@ a, .btn, button {
 }
 
 .progress-bar {
-    background: #fd0060;
+    background: #040d43;
 }
 .progressbar-active{
 	animation-name: progress;
